@@ -1,6 +1,6 @@
 # Developer
 
-Hello, This is james Hiro.
+Hello, This is James Hiro.
 
 # Pangolin Interface
 
